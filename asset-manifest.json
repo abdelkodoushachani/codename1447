@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fc35a9f.css",
-    "main.js": "/static/js/main.b5136a65.js",
+    "main.css": "/static/css/main.141d554c.css",
+    "main.js": "/static/js/main.5f69b4a4.js",
     "static/media/witcher.gif": "/static/media/witcher.379de754381da8531fb3.gif",
     "static/media/memin.jpeg": "/static/media/memin.47d5019445662cdeaaaa.jpeg",
     "static/media/abdou.png": "/static/media/abdou.90a87b45df9d73c37e5f.png",
+    "static/media/update1.png": "/static/media/update1.04cf1caadd137992dae2.png",
+    "static/media/updatecomics.pdf": "/static/media/updatecomics.090bae551485745dd497.pdf",
     "static/media/onemore.png": "/static/media/onemore.e6a0e277bab2d4d87d28.png",
     "static/media/background.jpeg": "/static/media/background.73dd64898786736f6ce3.jpeg",
     "static/media/ezdtech.png": "/static/media/ezdtech.ffed48092677794f8725.png",
+    "static/media/update3.png": "/static/media/update3.84ee49311a881b8e1ce3.png",
+    "static/media/update2.png": "/static/media/update2.6ec2efb66119fbc4eeca.png",
     "static/media/hero.png": "/static/media/hero.4428324d16ca694c388e.png",
     "static/media/valve.jpg": "/static/media/valve.ceb9136031665a69f39c.jpg",
     "static/media/braintchy.jpg": "/static/media/braintchy.e0191f4d049424cd325c.jpg",
@@ -27,11 +31,11 @@
     "static/media/text.png": "/static/media/text.0bb0209cedf738d73ffd.png",
     "static/media/logo.png": "/static/media/logo.6fc2dc5f0f3aa6edd13c.png",
     "index.html": "/index.html",
-    "main.1fc35a9f.css.map": "/static/css/main.1fc35a9f.css.map",
-    "main.b5136a65.js.map": "/static/js/main.b5136a65.js.map"
+    "main.141d554c.css.map": "/static/css/main.141d554c.css.map",
+    "main.5f69b4a4.js.map": "/static/js/main.5f69b4a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fc35a9f.css",
-    "static/js/main.b5136a65.js"
+    "static/css/main.141d554c.css",
+    "static/js/main.5f69b4a4.js"
   ]
 }
