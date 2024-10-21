@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodename1447=self.webpackChunkcodename1447||[]).push([[338],{8338:(e,c,a)=>{e.exports=a.p+"static/media/logo.6fc2dc5f0f3aa6edd13c.png"}}]);
