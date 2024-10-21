@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcodename1447=self.webpackChunkcodename1447||[]).push([[863],{3863:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});s(5043);var n=s(579);const c=()=>(0,n.jsx)("div",{className:"webflow-banner",children:(0,n.jsxs)("p",{children:["If you ",(0,n.jsx)("strong",{children:"catch me"}),", you can take my contact and inspire me to do something great!",(0,n.jsx)("span",{className:"gray-text",children:" \u2014 Just like that."})]})})}}]);
+//# sourceMappingURL=863.6217c76a.chunk.js.map
